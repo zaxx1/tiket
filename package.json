@@ -1,0 +1,17 @@
+{
+  "name": "blumtiket-encrypted",
+  "version": "1.0.0",
+  "description": "Encrypted version of blumtiket",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "SLY",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "colors": "^1.4.0",
+    "https-proxy-agent": "^7.0.5"
+  }
+}
